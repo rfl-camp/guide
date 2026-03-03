@@ -13,6 +13,7 @@ git-repository-url = "https://github.com/rfl-camp/guide"
 edit-url-template = "https://github.com/rfl-camp/guide/edit/main/docs/{path}"
 default-theme = "light"
 preferred-dark-theme = "navy"
+additional-css = ["theme/custom.css"]
 
 [output.html.search]
 enable = true
