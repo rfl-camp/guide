@@ -2,6 +2,8 @@
 
 > Rust-for-Linux 中文社区 — 从零到第一个内核补丁的最短路径
 
+**[在线阅读](https://rfl-camp.github.io/guide/)**
+
 ## 这是什么？
 
 RFL Camp 帮助中文开发者快速融入 [Rust-for-Linux](https://rust-for-linux.com) 社区。我们提供：

@@ -1,0 +1,18 @@
+[book]
+title = "RFL Camp"
+description = "Rust-for-Linux 中文社区 — 从零到第一个内核补丁的最短路径"
+authors = ["RFL Camp"]
+language = "zh"
+src = "docs"
+
+[build]
+build-dir = "book"
+
+[output.html]
+git-repository-url = "https://github.com/rfl-camp/guide"
+edit-url-template = "https://github.com/rfl-camp/guide/edit/main/docs/{path}"
+default-theme = "light"
+preferred-dark-theme = "navy"
+
+[output.html.search]
+enable = true
