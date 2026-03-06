@@ -21,3 +21,8 @@
 # RFL 内存
 
 - [内核内存分配的 Rust 封装](rfl-memory-01.md)
+- [Pin-init 与就地初始化](rfl-memory-02.md)
+
+# RFL 驱动
+
+- [编写一个简单的 Rust 内核模块](rfl-drivers-01.md)
